@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Gomez</h1>
-<h3 align="center">Im a Frontend Developer (Fullstack wannabe) / React-Vue-JS</h3>
+<h3 align="center">Im a FullStack Engineer / React/Vue/NodeJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manugo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="manugo-dev" /> </p>
 
